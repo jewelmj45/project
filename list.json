@@ -1,0 +1,67 @@
+{
+    
+"list":[{ "SlNum":1,
+    "Name":"Apple",
+    "Quantity":2,
+    "Unit":"Kg",
+    "Category":"Fruits",
+    "Notes":"Buy Fresh"
+},{ "SlNum":2,
+    "Name":"Mango",
+    "Quantity":5,
+    "Unit":"Kg",
+    "Category":"Fruits",
+    "Notes":"Buy Fresh"
+},{ "SlNum":3,
+    "Name":"Carrot",
+    "Quantity":2,
+    "Unit":"Kg",
+    "Category":"Vegetables",
+    "Notes":"Buy Organic"
+},{ "SlNum":4,
+    "Name":"Cucumber",
+    "Quantity":0.5,
+    "Unit":"Kg",
+    "Category":"Vegetables",
+    "Notes":"Buy Organic"
+},{ "SlNum":5,
+    "Name":"Bread",
+    "Quantity":1,
+    "Unit":"Unit",
+    "Category":"Eat",
+    "Notes":"Check Expiry"
+},{ "SlNum":6,
+    "Name":"Jam",
+    "Quantity":250,
+    "Unit":"gms",
+    "Category":"Eat",
+    "Notes":"Check Expiry"
+},{ "SlNum":7,
+    "Name":"Potato",
+    "Quantity":2,
+    "Unit":"Kg",
+    "Category":"Vegetables",
+    "Notes":"Buy Fresh"
+},{ "SlNum":8,
+    "Name":"Corn Flakes",
+    "Quantity":1,
+    "Unit":"Kg",
+    "Category":"Eat",
+    "Notes":"Buy New"
+},{ "SlNum":9,
+    "Name":"Lays",
+    "Quantity":5,
+    "Unit":"Packets",
+    "Category":"Eat",
+    "Notes":"Buy Green"},
+    { "SlNum":10,
+        "Name":"Pepsi",
+        "Quantity":3,
+        "Unit":"Bottle",
+        "Category":"Eat",
+        "Notes":"Buy Family Pack"}
+]
+    
+
+}
+ 
